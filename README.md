@@ -1,6 +1,6 @@
-# INPO SCRIPT
-Untuk ngecrack FB emak lohh🤗
 # BAHAN-BAHAN
+👇 Download apk termuxnya disini 👇
+https://f-droid.org/repo/com.termux_117.apk
  • apt update && apt upgrade -y apt install git python -y
 # INSTALATION
  • git clone https://github.com/Al-Vino/cracking
@@ -8,4 +8,4 @@ Untuk ngecrack FB emak lohh🤗
  • cd cracking
 # Def MASUK
  • python mhf-2.py
-
+🌟KASIH BINTANG WOY🌟
