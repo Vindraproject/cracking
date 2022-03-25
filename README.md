@@ -12,6 +12,7 @@
 https://f-droid.org/repo/com.termux_117.apk
 
  ✓ apt update && apt upgrade -y 
+
  ✓ apt install git python -y
 
  ✓ pip install requests -y
