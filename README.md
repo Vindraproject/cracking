@@ -8,25 +8,14 @@
 
 # BAHAN-BAHAN
 
-👇 Download apk termuxnya disini 👇
-https://f-droid.org/repo/com.termux_117.apk
+Download apk termuxnya disini biar ngga eror🌟
 
- ✓ apt update && apt upgrade -y 
-
- ✓ apt install git python -y
-
- ✓ pip install requests -y
-
-# INSTALATION
-
- ✓ git clone https://github.com/Al-Vino/cracking
-
-# Def JALAN
-
- ✓ cd cracking
-
-# Def MASUK
-
- ✓ python mhf-2.py
+[Download Aplikasi](https://f-droid.org/repo/com.termux_117.apk)👈
+```php
+$ apt update && apt upgrade -y 
+$ apt install git python -y
+$ git clone https://github.com/Al-Vino/cracking
+$ cd cracking
+$ python mhf-2.py
 
 🌟KASIH BINTANG WOY🌟
